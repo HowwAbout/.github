@@ -1,6 +1,4 @@
-<div align="center">
- <img src="/images/logo.PNG" alt="gjgs-logo">
-</div>
+![KakaoTalk_Photo_2024-12-16-20-28-01](https://github.com/user-attachments/assets/bc0fc723-cc3f-49fd-9251-402ed1c10936)
 
 <div align="center">
 
@@ -11,10 +9,6 @@
 | - 팀장 <br> - AI  <br> - [GitHub](https://github.com/jwywoo) | - Cloud <br> - [GitHub](https://github.com/backtony) | - Cloud <br> - [GitHub](https://github.com/kiwan97) | - Front-end <br> - [GitHub](https://github.com/minho) | - Back-end <br> - [GitHub](https://github.com/yuri) |
 
  </div>
-
-<div align="center">
- <img src="/images/soma.PNG" alt="soma-logo">
-</div>
 
 ## 💁‍♂️ Detail Role <a name = "role"></a>
 + [정우용(Woo.jeong)](https://github.com/jwywoo)
