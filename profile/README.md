@@ -82,14 +82,6 @@
 - [주제](#idea)
 - [아키텍처](#structure)
 - [결과물](#outputs)
-- [협업 방식 - Jira](#jira)
-- [팀의 개발 문화](#culture)
-- [ERD](#erd)  
-- [테스트 및 모니터링](#test)
-- [왜 이 기술을 사용했는가?](#why)
-- [리팩토링 & 성능 개선](#refactoring)
-- [성과 및 회고](#retrospection)
-- [프로젝트 종료 이후 혼자서 진행한 리팩토링](#update)
 
 <br>
 
