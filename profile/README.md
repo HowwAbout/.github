@@ -8,7 +8,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;정우용(Woo.jeong)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;박찬영(Ayaan.park)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;고경훈(K.ko)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;김도현(Bruce.kim)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;박설(Sunny.park)&nbsp;&nbsp;&nbsp;&nbsp; |
 |:-------------------------------------------:|:--------------------------------------------:|:------------------------------------------:|:------------------------------------------:|:-------------------------------------------:|
-| - 팀장 <br> - AI  <br> - [GitHub](https://github.com/orgs/HowwAbout/people/jwywoo) | - Cloud <br> - [GitHub](https://github.com/backtony) | - Cloud <br> - [GitHub](https://github.com/kiwan97) | - Front-end <br> - [GitHub](https://github.com/minho) | - Back-end <br> - [GitHub](https://github.com/yuri) |
+| - 팀장 <br> - AI  <br> - [GitHub](https://github.com/jwywoo) | - Cloud <br> - [GitHub](https://github.com/backtony) | - Cloud <br> - [GitHub](https://github.com/kiwan97) | - Front-end <br> - [GitHub](https://github.com/minho) | - Back-end <br> - [GitHub](https://github.com/yuri) |
 
  </div>
 
@@ -17,7 +17,7 @@
 </div>
 
 ## 💁‍♂️ Detail Role <a name = "role"></a>
-+ [정우용(Woo.jeong)](https://github.com/orgs/HowwAbout/people/jwywoo)
++ [정우용(Woo.jeong)](https://github.com/jwywoo)
   - 팀장
   - AI
   - <Woo.jeong> 작성해주세요!
