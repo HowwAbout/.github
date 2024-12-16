@@ -105,6 +105,20 @@
 # ☁️ 아키텍처 <a name = "structure"></a>
 ### Infrastructure Arcitecture
 
-- 데이트 계획을 세우기 어려운 사용자, 반복적인 데이트에 지친 커플, 또는 관계 초기 단계의 사람들을 위한 서비스
-- 간단한 입력만으로 AI가 데이트 활동을 생성해주어 데이트 계획을 쉽게 작성 가능
-- 사용자가 위치를 입력하면 해당 위치 기반으로 크롤링한 데이트 장소와 활동을 AI가 추천
+![KakaoTalk_Photo_2024-12-16-20-54-20](https://github.com/user-attachments/assets/0de02950-2898-4279-8a64-b42a6d19c771)
+
+- 
+- 
+- 
+- 
+- 
+
+<br>
+
+# 🚩 결과물 <a name = "outputs"></a>
+### Main Page
+
+<img width="1498" alt="KakaoTalk_Image_2024-12-16-21-02-07_001" src="https://github.com/user-attachments/assets/bfa0c56e-35e0-421a-8405-9ead4ad0fd8c" />
+
+### AI Recommendation Page
+<img width="1055" alt="KakaoTalk_Image_2024-12-16-21-02-07_002" src="https://github.com/user-attachments/assets/d2b26917-2208-49f8-a157-6c360d5ccfc3" />
