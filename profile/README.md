@@ -2,16 +2,13 @@
  <img src="/images/logo.PNG" alt="gjgs-logo">
 </div>
 
-
 <div align="center">
 
+### 팀명 : 삼삼오오
 
-
-### 팀명 : 가지각색
-
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 고범석 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 최준성 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 김기완 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-|:---:|:---:|:---:|  
-| - 팀장 <br> - Back-end  <br> - [GitHub](https://github.com/kobeomseok95) | - 기획자 <br> - Back-end<br>- DevOps <Br> - [GitHub](https://github.com/backtony) | - PM <br>- Front-end <br> - [GitHub](https://github.com/kiwan97)
+| &nbsp;&nbsp;&nbsp;&nbsp;정우용(Woo.jeong)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;박찬영(Ayaan.park)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;고경훈(K.ko)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;김도현(Bruce.kim)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;박설(Sunny.park)&nbsp;&nbsp;&nbsp;&nbsp; |
+|:-------------------------------------------:|:--------------------------------------------:|:------------------------------------------:|:------------------------------------------:|:-------------------------------------------:|
+| - 팀장 <br> - AI  <br> - [GitHub](https://github.com/kobeomseok95) | - Cloud <br> - [GitHub](https://github.com/backtony) | - Cloud <br> - [GitHub](https://github.com/kiwan97) | - Front-end <br> - [GitHub](https://github.com/minho) | - Back-end <br> - [GitHub](https://github.com/yuri) |
 
  </div>
 
@@ -19,38 +16,37 @@
  <img src="/images/soma.PNG" alt="soma-logo">
 </div>
 
-
-
 ## 💁‍♂️ Detail Role <a name = "role"></a>
-+ [고범석](https://github.com/kobeomseok95)
++ [정우용(Woo.jeong)](https://github.com/kobeomseok95)
   - 팀장
-  - Back-end
-  - 그룹, 게시글, 클래스, 쿠폰, 리뷰, 문의, 결제 구현
-  - DB 클래스 정보를 Elasticsearch로 옮기는 배치 작업 및 Elasticsearch 구현
-  - DB 이중화 구성  
-  - Swagger, REST docs 문서화
+  - AI
+  - <Woo.jeong> 작성해주세요!
   
 <Br>
 
-+ [최준성(backtony)](https://github.com/backtony)
-  - 기획자 
-  - Back-end & DevOps
-  - 로그인, 마이페이지, 찜, 매칭, 알림, 공지사항, 리워드, 결제 취소 배치 작업 구현
-  - 전체적인 AWS 환경 구축
-  - Jenkins CI/CD 구축
-  - Redis 클러스터 및 모니터링 구축
-  - 로그 모니터링용 ELK 구축
-  - Swagger, REST docs 문서화
++ [박찬영(Ayaan.park)](https://github.com/kobeomseok95)
+  - Cloud
+  - <Ayaan.park> 작성해주세요!
 
 <Br>
 
-+ [김기완](https://github.com/kiwan97)
-  - PM
++ [고경훈(K.ko)](https://github.com/kobeomseok95)
+  - Cloud
+  - <K.ko> 작성해주세요!
+
+<Br>
+
++ [김도현(Bruce.kim)](https://github.com/kiwan97)
   - Front-end
   - 모든 Front-end 구현
 
 <Br>
 
++ [박설(Sunny.park)](https://github.com/kiwan97)
+  - Back-end
+  - <Sunny.park> 작성해주세요!
+
+<Br>
 
 
  <br>
