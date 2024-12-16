@@ -1,4 +1,6 @@
-![KakaoTalk_Photo_2024-12-16-20-28-01](https://github.com/user-attachments/assets/bc0fc723-cc3f-49fd-9251-402ed1c10936)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b7d1d466-8b8c-4dca-ae70-75978bf01007" alt="KakaoTalk_Photo_2024-12-16-20-33-05" />
+</div>
 
 <div align="center">
 
