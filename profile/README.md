@@ -22,13 +22,13 @@
 
 + [박찬영(Ayaan.park)](https://github.com/chanyoungit)
   - Cloud
-  - <Ayaan.park> 작성해주세요!
+  - 1월에 만나서 따로 작성 예정
 
 <Br>
 
 + [고경훈(K.ko)](https://github.com/42kko)
   - Cloud
-  - <K.ko> 작성해주세요!
+  - 1월에 만나서 따로 작성 예정
 
 <Br>
 
