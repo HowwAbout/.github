@@ -16,19 +16,16 @@
 + [정우용(Woo.jeong)](https://github.com/jwywoo)
   - 팀장
   - AI
-  - <Woo.jeong> 작성해주세요!
   
 <Br>
 
 + [박찬영(Ayaan.park)](https://github.com/chanyoungit)
   - Cloud
-  - 1월에 만나서 따로 작성 예정
 
 <Br>
 
 + [고경훈(K.ko)](https://github.com/42kko)
   - Cloud
-  - 1월에 만나서 따로 작성 예정
 
 <Br>
 
@@ -108,11 +105,17 @@
 
 ![KakaoTalk_Photo_2024-12-16-20-54-20](https://github.com/user-attachments/assets/0de02950-2898-4279-8a64-b42a6d19c771)
 
-- 
-- 
-- 
-- 
-- 
+- Jenkins를 통한 CI/CD
+  - Master-Agent 구조를 통해 멀티 태스킹 및 스토리지 용량 관리
+- S3를 통해 환경 설정 파일을 관리
+  - S3를 private으로 설정하여 환경 설정 파일을 보호
+- Docker 이미지로 배포
+  - Dockerfile을 이용해 이미지를 생성하고 ECR에 업로드
+  - 배포 인스턴스에서 이미지를 가져오도록 CI/CD 구축
+- Terraform으로 생성
+  - 인프라의 코드화하여 인스턴스 생성을 재사용할 수 있도록 구현
+- Nginx을 통한 리버스 프록시
+  - Private 인스턴스를 Nginx를 통해 접근 가능
 
 <br>
 
