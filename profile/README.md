@@ -17,14 +17,18 @@
   - As 팀장
     - 프로젝트 기획 및 일정 조정
   - As AI Engineer
-    - Retrieval Augmented Generation(RAG) 구현 -> [RAG 구현 과정](https://github.com/jwywoo/RAG)
-    - 사용자 요청에 따른 데이트 계획, 일정 추천 및 생성
-    - 데이트 생성 기준
-      - 위치
-      - 사용자 선호 활동
-    - RAG Application Server 구현 -> [RAG 서버 구현](https://github.com/jwywoo/RAG/tree/main/rag-service/rag-api-server)
-      - FastAPI 활용
-      - 대용량 요청으로 인한 TPM 제한 예방을 위한 Exponential Backoff 로직 적용 -> [구현 레포](https://github.com/jwywoo/RAG/tree/main/rag-optimization)
+    - Service Repository: 사용자가 사용할 수 있는 수준의 API 서버 및 RAG 저장소
+      - [RAG API Repository](https://github.com/HowwAbout/RAG-API)
+      - 구현 코드 및 설명이 포함된 REAMD.md 포함
+    - Develop Repository: 사용자가 사용 이전 로컬 기능 MVP구현과 로직 테스트를위한 개발 단계에서의 저장소 모음
+      - Retrieval Augmented Generation(RAG) 구현 -> [RAG 구현 과정](https://github.com/jwywoo/RAG)
+      - 사용자 요청에 따른 데이트 계획, 일정 추천 및 생성
+      - 데이트 생성 기준
+        - 위치
+        - 사용자 선호 활동
+      - RAG Application Server 구현 -> [RAG 서버 구현](https://github.com/jwywoo/RAG/tree/main/rag-service/rag-api-server)
+        - FastAPI 활용
+        - 대용량 요청으로 인한 TPM 제한 예방을 위한 Exponential Backoff 로직 적용 -> [구현 레포](https://github.com/jwywoo/RAG/tree/main/rag-optimization)
 <Br>
 
 + [박찬영(Ayaan.park)](https://github.com/chanyoungit)
