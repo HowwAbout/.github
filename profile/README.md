@@ -23,7 +23,7 @@
     - Develop Repository: 사용자가 사용 이전 로컬 기능 MVP구현과 로직 테스트를위한 개발 단계에서의 저장소 모음
       - Retrieval Augmented Generation(RAG) 구현 -> [RAG 구현 과정](https://github.com/jwywoo/RAG)
       - 사용자 요청에 따른 데이트 계획, 일정 추천 및 생성
-      - 데이트 생성 기준
+      - 데이트 생성 기준 및 데이트에 사용될 장소 크롤링 -> [HowAbout Data Crawler](https://github.com/jwywoo/RAG-Data/tree/main/ha-crawler)
         - 위치
         - 사용자 선호 활동
       - RAG Application Server 구현 -> [RAG 서버 구현](https://github.com/jwywoo/RAG/tree/main/rag-service/rag-api-server)
