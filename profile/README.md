@@ -16,7 +16,7 @@
 + [정우용(Woo.jeong)](https://github.com/jwywoo)
   - As 팀장
     - 프로젝트 기획 및 일정 조정
-  - As AI Engineer
+  - As AI Engineer: [HowAbout RAG API 포트폴리오](https://cherry-lute-619.notion.site/HowAbout-RAG-API-181eaaed8a6a80f5a6d6c7f8446a1bd7)
     - Service Repository: 사용자가 사용할 수 있는 수준의 API 서버 및 RAG 저장소
       - [RAG API Repository](https://github.com/HowwAbout/RAG-API)
       - 구현 코드 및 설명이 포함된 REAMD.md 포함
