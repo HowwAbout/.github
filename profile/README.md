@@ -36,6 +36,12 @@
 + [박찬영(Ayaan.park)](https://github.com/chanyoungit)
   - Cloud
   - 아키텍처 설계 및 구현
+  - Jenkins CI/CD
+  - Nginx기반 로드밸런싱 및 무중단 배포
+  - 개발/배포 서버 분리
+  - AWS & Docker
+
+
 
 <Br>
 
