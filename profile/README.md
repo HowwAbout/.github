@@ -8,15 +8,17 @@
 
 | 정우용(Woo.jeong) | 박찬영(Ayaan.park) | &nbsp;&nbsp;&nbsp;&nbsp;고경훈(K.ko)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;김도현(Bruce.kim)&nbsp; | &nbsp;박설(Sunny.park)&nbsp; |
 |:-------------------------------------------:|:--------------------------------------------:|:------------------------------------------:|:------------------------------------------:|:-------------------------------------------:|
-| - 팀장 <br> - AI  <br> - [GitHub](https://github.com/jwywoo) | - Cloud <br> - [GitHub](https://github.com/chanyoungit) | - Cloud <br> - [GitHub](https://github.com/42kko) | - Front-end <br> - [GitHub](https://github.com/Dorae0) | - Back-end <br> - [GitHub](https://github.com/lxeso) |
+| - 팀장 <br> - AI | - DevOps <br> | - DevOps <br> | - Front-end <br> | - Back-end <br> |
 
  </div>
+
+ <br>
 
 ## 💁‍♂️ Detail Role <a name = "role"></a>
 + [정우용(Woo.jeong)](https://github.com/jwywoo)
   - As 팀장
     - 프로젝트 기획 및 일정 조정
-  - As AI Engineer: [HowAbout RAG API 포트폴리오](https://cherry-lute-619.notion.site/HowAbout-RAG-API-181eaaed8a6a80f5a6d6c7f8446a1bd7)
+  - As AI Engineer
     - Service Repository: 사용자가 사용할 수 있는 수준의 API 서버 및 RAG 저장소
       - [RAG API Repository](https://github.com/HowwAbout/RAG-API)
       - 구현 코드 및 설명이 포함된 REAMD.md 포함
@@ -33,11 +35,13 @@
 
 + [박찬영(Ayaan.park)](https://github.com/chanyoungit)
   - Cloud
+  - 아키텍처 설계 및 구현
 
 <Br>
 
 + [고경훈(K.ko)](https://github.com/42kko)
   - Cloud
+  - 아키텍처 설계 및 구현
 
 <Br>
 
@@ -60,81 +64,123 @@
 
  <br>
 
-### Languages
+# 🚩 프로젝트
 
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="Terraform" src ="https://img.shields.io/badge/Terraform-946CED.svg?&style=for-the-badge&logo=Terraform&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-FFD43B.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Cpp" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<details>
+   <summary> 본문 확인 (👈 Click)</summary>
+<br />
 
-<br>
-
-### Technologies
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-<img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
-<img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
-<img alt="Nginx" src ="https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-<img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
-<img alt="Docker" src ="https://img.shields.io/badge/Docker-4479A1.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-<img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
-<img alt="JPA" src ="https://img.shields.io/badge/jpa-6DB33F.svg?&style=for-the-badge&logo=jpa&logoColor=white"/>
-<img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="fastAPI" src ="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img alt="LangChain" src ="https://img.shields.io/badge/langchain-1C3C3C.svg?&style=for-the-badge&logo=langchain&logoColor=white"/>
-<img alt="OpenAI" src ="https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
-<img alt="Hugging Face" src ="https://img.shields.io/badge/hugging face-FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=white"/>
-<img alt="Faiss" src ="https://img.shields.io/badge/faiss-0866FF.svg?&style=for-the-badge&logo=faiss&logoColor=white"/>
-<img alt="JSON" src ="https://img.shields.io/badge/json-000000.svg?&style=for-the-badge&logo=json&logoColor=white"/>
-<img alt="Selenium" src ="https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white"/>
-<!--
-<img alt="ELK" src ="https://img.shields.io/badge/ELK-005571.svg?&style=for-the-badge&logo=elasticstack&logoColor=white"/>
-<img alt="nGrinder" src ="https://img.shields.io/badge/nGrinder-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/>
--->
-
----
-
-
-# 📝 [목차](#index) <a name = "index"></a>
-
-- [주제](#idea)
-- [아키텍처](#structure)
-- [결과물](#outputs)
-
-<br>
-
-# 🚩 주제 <a name = "idea"></a>
 ### AI를 활용한 데이트 계획 작성 및 추천 서비스 HowAbout
 
 - 데이트 계획을 세우기 어려운 사용자, 반복적인 데이트에 지친 커플, 또는 관계 초기 단계의 사람들을 위한 서비스
 - 간단한 입력만으로 AI가 데이트 활동을 생성해주어 데이트 계획을 쉽게 작성 가능
 - 사용자가 위치를 입력하면 해당 위치 기반으로 크롤링한 데이트 장소와 활동을 AI가 추천
 
-<br>
-
-# ☁️ 아키텍처 <a name = "structure"></a>
-### Infrastructure Arcitecture
-
-![KakaoTalk_Photo_2024-12-16-20-54-20](https://github.com/user-attachments/assets/0de02950-2898-4279-8a64-b42a6d19c771)
-
-- Jenkins를 통한 CI/CD
-  - Master-Agent 구조를 통해 멀티 태스킹 및 스토리지 용량 관리
-- S3를 통해 환경 설정 파일을 관리
-  - S3를 private으로 설정하여 환경 설정 파일을 보호
-- Docker 이미지로 배포
-  - Dockerfile을 이용해 이미지를 생성하고 ECR에 업로드
-  - 배포 인스턴스에서 이미지를 가져오도록 CI/CD 구축
-- Terraform으로 생성
-  - 인프라의 코드화하여 인스턴스 생성을 재사용할 수 있도록 구현
-- Nginx을 통한 리버스 프록시
-  - Private 인스턴스를 Nginx를 통해 접근 가능
+</details>
 
 <br>
 
-# 🚩 결과물 <a name = "outputs"></a>
+# 🎁 결과물
+
+<details>
+   <summary> 본문 확인 (👈 Click)</summary>
+<br />
+
 ### Main Page
 
 <img width="1498" alt="KakaoTalk_Image_2024-12-16-21-02-07_001" src="https://github.com/user-attachments/assets/bfa0c56e-35e0-421a-8405-9ead4ad0fd8c" />
 
 ### AI Recommendation Page
 <img width="1055" alt="KakaoTalk_Image_2024-12-16-21-02-07_002" src="https://github.com/user-attachments/assets/d2b26917-2208-49f8-a157-6c360d5ccfc3" />
+
+</details>
+
+<br>
+
+# ☁️ 아키텍처
+
+![image](https://github.com/user-attachments/assets/803d04cd-dc7d-4c5d-8124-16664034b323)
+
+<br>
+
+##### Howabout 프로젝트는 단순한 기능 구현뿐만이 아닌 애플리케이션의 사용자가 증가함에 따라 발생할 수 있는 트래픽 문제를 고려하여 진행했습니다.
+
+<br>
+
+### Jenkins
+
+Jenkins를 Master-Agent 구조로 구현했습니다. 초기에는 단일 서버에서 빌드, 테스트, 배포 작업을 모두 처리했지만, 이로 인해 성능 병목이 발생하고 배포 시간이 길어지는 문제가 있었습니다. 
+
+이를 개선하기 위해 Master 서버는 작업 스케줄링에 집중하도록 하고, Agent 서버에서 빌드와 테스트를 병렬로 처리하도록 구조를 분리했습니다. 특히, CI 작업과 CD 작업을 각각 처리하는 CI Agent 서버와 CD Agent 서버로 역할을 구분하고, Jenkins Executor 수를 여유롭게 설정하여 다수의 파이프라인이 동시에 실행되더라도 병목이 발생하지 않도록 구성했습니다.
+
+비용 효율성을 높이기 위해 CI/CD Agent 서버에 스팟 인스턴스를 활용하도록 설정했습니다. 파이프라인 실행 시 스팟 인스턴스를 동적으로 생성하며, 자체 제작한 AMI를 사용해 기본 설정을 포함시켰습니다. 또한, 생성된 스팟 인스턴스는 한 번 생성되면 30분 동안 유지되도록 구성하여, 동시에 여러 파이프라인이 실행되더라도 스팟 인스턴스가 반복적으로 생성되는 문제를 방지했습니다. 이를 통해 배포 시간을 단축하고, 효율적인 운영 환경을 구축했습니다.
+
+<br>
+
+### Jenkins를 활용한 CI/CD 파이프라인
+
+개발자가 소스 코드를 Push하여 GitHub에 Pull Request(PR)가 생성되면, GitHub Webhook이 Jenkins 서버로 알림을 전송하여 파이프라인이 실행됩니다. Jenkins Master 서버는 스팟 인스턴스를 동적으로 생성하기 위해 미리 설정된 AMI를 활용하여 CI/CD Agent 서버를 생성합니다.
+
+CI Agent 서버는 Dockerfile을 사용하여 애플리케이션 이미지를 빌드한 뒤, AWS Elastic Container Registry(ECR)에 이미지를 업로드합니다. 이후 CD Agent 서버는 ECR에 업로드된 이미지를 가져와 배포 환경에서 컨테이너를 실행합니다.
+
+<br>
+
+### 개발 서버와 배포 서버 분리
+
+개발 서버와 배포 서버를 분리하여, 개발 서버에서 모든 테스트 동작을 분리하고, Git Flow 전략을 활용하여 CI/CD 파이프라인을 설정했습니다. 구체적으로, Develop 브랜치에 변경 사항이 merge되면 테스트 서버에서 CI/CD 파이프라인이 실행되도록 설정하고, Main 브랜치에 변경 사항이 merge되면, 배포 서버에서 CI/CD 파이프라인이 실행되도록 했습니다.
+
+무중단 배포를 구현하기 위해 블루-그린 배포 방식을 적용했기 떄문에 Main 브랜치에 merge가 되면, 현재 활성화된 서버(블루 서버)가 아닌 비활성화된 서버(그린 서버)에 배포가 진행되는 구조입니다. 그린 서버에 배포가 완료되면, 해당 서버에서 새로운 버전의 코드가 빌드되고 UI/UX, 기능테스트가 진행됩니다. 이때, 테스트가 모두 통과하면, Nginx 설정 파일을 수정하여 트래픽이 그린 서버로 전환되도록 설정합니다. 이렇게 되면, 사용자에게는 서비스의 중단 없이 새로운 버전의 애플리케이션을 제공할 수 있게 됩니다.
+
+테스트가 완료된 후에는, 그린 서버가 활성화된 서버가 되어, 블루 서버는 비활성화되며, 다음 배포 시에는 블루 서버가 업데이트 대상으로 사용됩니다. 이와 같은 방식으로 CI/CD 파이프라인과 서버 배포를 자동화하고, 무중단 배포를 통해 시스템의 가용성과 안정성을 유지하면서 새로운 버전의 배포가 가능하도록 했습니다.
+
+<br>
+
+### S3 & CloudFront & Route 53 배포
+
+S3는 데이터 용량에 따라 비용이 청구되기 때문에, 적은 트래픽을 다루는 경우 매우 경제적입니다. 이를 활용하여 서버 없이도 비용 효율적으로 프론트엔드 애플리케이션을 배포할 수 있도록 S3를 선택했습니다.
+
+또한, CloudFront를 사용하여 전 세계에 분산된 엣지 로케이션에서 콘텐츠를 캐시함으로써, S3에서 데이터를 직접 가져오는 것보다 빠르고 효율적으로 콘텐츠를 제공하도록 구성했습니다. 이를 통해 사용자에게 낮은 대기 시간과 높은 성능을 보장할 수 있었습니다.
+
+S3와 CloudFront는 자동으로 트래픽을 처리할 수 있어, 서버를 별도로 관리하지 않아도 대규모 사용자가 동시에 접속하는 환경에서도 안정적인 서비스를 제공할 수 있다는 점도 중요한 고려 요소였습니다.
+
+마지막으로, Route 53을 활용하여 도메인을 S3와 CloudFront에 연결함으로써 사용자들이 더 쉽고 편리하게 애플리케이션에 접근할 수 있도록 설정했습니다.
+
+<br>
+
+### Private Subnet 기반 보안 네트워크 설계 및 NAT Gateway 활용
+
+Nginx 서버를 제외한 Back-end 서버, AI 서버, DB 서버, 그리고 모니터링 서버 등은 모두 Private Subnet에 배치하여 외부에서 직접 접근할 수 없도록 설정했습니다. 이러한 구성을 통해, 외부의 공격으로부터 중요한 시스템을 보호하고, 내부 네트워크 내에서만 안전하게 통신하도록 만들었습니다.
+
+Private Subnet에 위치한 리소스들이 인터넷과 연결되어야 하는 경우, 직접적으로 인터넷과 연결되지 않도록 NAT Gateway를 사용하여 연결을 설정했습니다.
+
+<br>
+
+### Nginx 리버스 프록시를 활용한 로드 밸런싱 및 블루-그린 무중단 배포
+
+Nginx의 리버스 프록시를 통해 Private Subnet으로 설정된 백엔드, AI, 그리고 DB 서버와 통신할 수 있도록 구성했습니다. 이러한 설정으로 인해 외부에서는 백엔드, AI, DB 서버에 직접 접근할 수 없도록 하여 보안성을 크게 강화했습니다. 프론트엔드 서버는 백엔드 서버의 세부 정보를 전혀 알지 못하고 오직 Nginx 서버를 통해서만 통신이 이루어지도록 설정하였는데, 이로 인해 프론트엔드와 백엔드 간의 통신 과정에서도 보안성을 높이는 데 기여했습니다.
+
+백엔드 서버는 총 4개로 구성하여 블루-그린 배포 전략을 도입했습니다. 이 전략은 무중단 배포를 가능하게 하여 서비스 가용성을 극대화하는 데 활용되었습니다. 구체적으로, 2개의 백엔드 서버는 블루 환경에, 나머지 2개의 서버는 그린 환경에 할당하였습니다. 배포 시, 새 버전의 코드를 그린 환경에 배포하고 테스트를 거친 뒤, 그린 환경을 활성화하여 트래픽을 전환하는 방식을 채택했습니다. 이를 통해 사용자는 배포 과정에서 발생할 수 있는 다운타임을 전혀 경험하지 않으며, 안정적으로 서비스를 구현했습니다.
+
+추가로, Nginx는 리버스 프록시뿐만 아니라 로드 밸런서를 역할도 수행하여 트래픽을 블루와 그린 환경의 백엔드 서버에 대한 트래픽을 고르게 분산시켰습니다. 이로 인해 특정 서버에 과부하가 걸리는 상황을 방지할 수 있었으며 확장성과 안정성을 동시에 보장하는 효과적인 아키텍처로, 다양한 사용자 요청을 처리하는 데 최적화된 환경을 제공했습니다.
+
+결론적으로, 리버스 프록시를 통해 외부 접근을 차단하고 블루-그린 배포 및 로드 밸런싱을 결합하여 보안, 무중단 배포, 고가용성, 그리고 트래픽 분산까지 모든 면에서 효율적이고 안정적인 운영을 가능하게 했습니다.
+
+<br>
+
+### 볼륨을 통한 DB 관리
+
+RDS 대신 EBS(Elastic Block Store) 볼륨을 사용하여 DB 설정 시 데이터 디렉토리를 EBS 볼륨에 지정하여, 인스턴스의 재시작이나 중단 시에도 데이터 손실이 없도록 구현했습니다. 
+
+RDS는 관리가 용이하고 자동화된 백업, 패치, 스케일링 등의 기능을 제공하여 유지보수가 편리한 장점이 있지만, 운영 비용이 상대적으로 높은 단점이 있습니다. 이에 따라, 비용 효율적인 접근을 위해 EBS 볼륨을 선택하여 데이터베이스 데이터를 저장하고 관리했습니다. 또한, EBS 볼륨은 EC2 인스턴스와 별도로 데이터를 저장할 수 있기 때문에, 인스턴스가 종료되거나 장애가 발생하더라도 데이터가 볼륨에 안전하게 저장되며 손실되지 않도록 구성하여 인스턴스 장애가 발생하더라도 볼륨만 복원하면 데이터베이스를 다시 시작할 수 있기 때문에 서비스 연속성을 보장했습니다.
+
+초기 비용이 적고, 예상되는 트래픽이나 데이터베이스 용량에 맞게 EC2 인스턴스와 EBS 볼륨의 스펙을 조정할 수 있어, 비용 효율성을 높이는 데 유리하지만 RDS와 비교할 때 운영 관리 측면에서 조금 더 신경을 써야 하며, 백업이나 고가용성을 위한 별도의 추가 설정을 고려할 예정입니다.
+
+<br>
+
+### Prometheus & Grafana
+
+프로메테우스를 사용하여 백엔드 서버에서 발생하는 다양한 메트릭을 수집하고, 그라파나를 이용해 이를 시각화하여 모니터링 시스템을 구축했습니다.
+
+모니터링의 주요 지표로는 Java 애플리케이션의 가바지 컬렉션 사용량, CPU 사용량, 메모리 사용량 등을 포함시켰습니다. Java의 GC 메트릭은 애플리케이션의 메모리 관리 상태를 파악하는데 유용하며, 메모리 누수나 가비지 컬렉션으로 인한 성능 저하 등을 감지할 수 있도록 해주며 CPU 사용량과 메모리 사용량은 서버의 자원 소비 상태를 실시간으로 추적하여 성능 병목 현상을 조기에 발견할 수 있게 도와줍니다.
+
+수집된 메트릭은 그라파나 대시보드에서 시각화되어, 다양한 그래프와 차트를 통해 쉽게 모니터링할 수 있도록 구성되었습니다. 이를 통해, 실시간으로 서버의 상태를 추적하고, 문제가 발생할 경우 빠르게 원인을 파악하여 대응할 수 있는 환경을 구축했습니다.
